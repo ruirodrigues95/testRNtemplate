@@ -1,0 +1,8 @@
+{
+  "name": "testrntemplate",
+  "version": "0.0.1",
+  "description": "React Native Template Test",
+  "repository": "https://github.com/ruirodrigues95/testRNtemplate.git",
+  "author": "Rui Rodrigues",
+  "license": "MIT"
+}
